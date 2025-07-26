@@ -34,7 +34,8 @@ function PostForm() {
   }
 
   return (
-         <form onSubmit={handleSubmit}>
+        <form onSubmit={handleSubmit} className="form">
+          
       <div>
         <label>
           Type:

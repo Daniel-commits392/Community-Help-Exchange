@@ -14,7 +14,7 @@ function Offers() {
         }, []);
 
     return (
-        <div>
+        <div className='page'>
             <h2>Offers</h2>
              {offers.length=== 0 ? (
              <p>No offers available at the moment.</p>

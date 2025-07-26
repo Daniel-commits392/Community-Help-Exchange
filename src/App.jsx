@@ -5,6 +5,8 @@ import Header from "./Components/Header";
 import Requests from "./Pages/Requests";
 import Offers from "./Pages/Offers";
 import Newpost from "./Pages/NewPost";
+import './App.css'
+
 
 
 function App() {

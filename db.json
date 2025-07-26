@@ -13,6 +13,20 @@
       "title": "Cleaning",
       "description": "I offer cleaning services to those who dont have time",
       "contact": "someone@someone"
+    },
+    {
+      "id": "dd94",
+      "type": "offer",
+      "title": "babysitting",
+      "description": "i am good with kids",
+      "contact": "01234567"
+    },
+    {
+      "id": "f943",
+      "type": "offer",
+      "title": "",
+      "description": "",
+      "contact": ""
     }
   ]
 }

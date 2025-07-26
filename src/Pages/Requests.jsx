@@ -14,7 +14,7 @@ function Requests () {
     },[]);
     
     return (
-        <div>
+        <div className='page'>
             <h2>Requests</h2>         
             {requests.length === 0 ? (
                 <p>No requests available at the moment.</p>
